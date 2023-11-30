@@ -2,7 +2,7 @@
   "name": "segunda-preentrega",
   "type": "module",
   "version": "1.0.0",
-  "description": "Entregable numero 3 servidor con express",
+  "description": "2daEntrega",
   "main": "app.js",
   "types": "module",
   "scripts": {
