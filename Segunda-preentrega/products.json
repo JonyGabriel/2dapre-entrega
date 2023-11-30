@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "6567dcf1ed3a1180789902b6"
+  },
+  "id": 1,
+  "title": "Computadora Gamer",
+  "description": "Computadora de alta gama",
+  "price": 20000,
+  "thumbnails": [
+    ""
+  ],
+  "code": "555BB",
+  "stock": 16,
+  "status": true,
+  "category": "Electronic Components"
+},
+{
+  "_id": {
+    "$oid": "6567dcf1ed3a1180789902b7"
+  },
+  "id": 3,
+  "title": "PC OFICINA",
+  "description": "PC Gama baja",
+  "price": 5000,
+  "thumbnails": [
+    ""
+  ],
+  "code": "555AA",
+  "stock": 10,
+  "status": true,
+  "category": "Electronic Components"
+},
+{
+  "_id": {
+    "$oid": "6567dcf1ed3a1180789902b8"
+  },
+  "id": 4,
+  "title": "PC GAMA MEDIA",
+  "description": "Esta Pc tiene aun mas RGB",
+  "price": 40000,
+  "thumbnails": [
+    "",
+    ""
+  ],
+  "code": "999PP",
+  "stock": 16,
+  "status": true,
+  "category": "Electronic Components"
+},
+{
+  "_id": {
+    "$oid": "6567dcf1ed3a1180789902b9"
+  },
+  "id": 5,
+  "title": "RTX 3060 TI RGB",
+  "description": "RTX",
+  "price": 350,
+  "thumbnails": [
+    "",
+    ""
+  ],
+  "code": "100PP",
+  "stock": 16,
+  "status": true,
+  "category": "Electronic Components"
+},
+{
+  "_id": {
+    "$oid": "6567dcf1ed3a1180789902ba"
+  },
+  "id": 6,
+  "title": "MONITOR 165Hz",
+  "description": "MONITORES",
+  "price": 900,
+  "thumbnails": [
+    "",
+    "PC2.jpg"
+  ],
+  "code": "AAAA9",
+  "stock": 16,
+  "status": true,
+  "category": "Electronic Components"
+},
+{
+  "_id": {
+    "$oid": "6567dcf1ed3a1180789902bb"
+  },
+  "id": 7,
+  "title": "Logitech G Pro Superlight",
+  "description": "MOUSE",
+  "price": 8000,
+  "thumbnails": [
+    ""
+  ],
+  "code": "BBBB8",
+  "stock": 20,
+  "status": true,
+  "category": "Electronicos"
+}]
